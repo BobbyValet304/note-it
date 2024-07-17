@@ -43,4 +43,4 @@ N/A
 
 ![alt text](image.png)
 
-Link to application: https://note-it-j2xl.onrender.com/notes
+Link to application: https://note-it-j2xl.onrender.com/
